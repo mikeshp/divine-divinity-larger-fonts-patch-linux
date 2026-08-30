@@ -125,10 +125,10 @@ mv dialog_grey.fnt dialog_grey-.fnt
 mv dialog_red.fnt dialog_red-.fnt
 mv dialog_white.fnt dialog_white-.fnt
 mv dialog_yellow.fnt dialog_yellow-.fnt
-cp verdana_yellow_1.fnt dialog_yellow.fnt
-cp verdana_white_1.fnt dialog_white.fnt
-cp verdana_red_1.fnt dialog_red.fnt
-cp verdana_grey_1.fnt dialog_grey.fnt
+cp DD_V2.0_font_enlargement_patch/verdana_yellow_1.fnt dialog_yellow.fnt
+cp DD_V2.0_font_enlargement_patch/verdana_white_1.fnt dialog_white.fnt
+cp DD_V2.0_font_enlargement_patch/verdana_red_1.fnt dialog_red.fnt
+cp DD_V2.0_font_enlargement_patch/verdana_grey_1.fnt dialog_grey.fnt
 echo
 echo "Your dialog fonts of Divine Divinity has been enlarged..."
 sleep 1
