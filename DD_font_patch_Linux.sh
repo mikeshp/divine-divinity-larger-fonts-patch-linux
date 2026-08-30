@@ -20,7 +20,7 @@ echo
 execute_Goodbye() {
 
 echo
-echo All selected changes applyed...
+echo All selected changes applied...
 sleep 1
 echo Goodbye, have fun!
 echo
