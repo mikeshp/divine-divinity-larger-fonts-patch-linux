@@ -2,7 +2,7 @@ This is the original <b>Larian font enlargement patch for the Divine Divinity ga
 The font files and the .bat script can be downloaded via link on Larian Studios forum post:</br>
 https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=374873#Post374873
 </br></br>
-The .bat script was rewritten in bash to make it usable in Linux terminal.</br>
+The .bat script was rewritten in Bash to make it usable in Linux terminal.</br>
 No modifications whatsoever were made to the actual font files.</br>
 </br>
 <i>The patch was tested on the Steam version of the game that I run on Debian 13 and it works.</i></br>
