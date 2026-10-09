@@ -25,3 +25,7 @@ Here is how to use the patch:</br>
 </ul>
 </br>
 Enjoy your game, have fun!</br>
+
+---
+## License
+Distributed under the **MIT License**, see [LICENSE](LICENSE) for more details.
